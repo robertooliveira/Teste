@@ -1,0 +1,9 @@
+D:\Repos\Teste\AplicationTest\AplicationTest\bin\Debug\AplicationTest.exe
+D:\Repos\Teste\AplicationTest\AplicationTest\bin\Debug\AplicationTest.pdb
+D:\Repos\Teste\AplicationTest\AplicationTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Repos\Teste\AplicationTest\AplicationTest\obj\x86\Debug\AplicationTest.Form1.resources
+D:\Repos\Teste\AplicationTest\AplicationTest\obj\x86\Debug\AplicationTest.Properties.Resources.resources
+D:\Repos\Teste\AplicationTest\AplicationTest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Repos\Teste\AplicationTest\AplicationTest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Repos\Teste\AplicationTest\AplicationTest\obj\x86\Debug\AplicationTest.exe
+D:\Repos\Teste\AplicationTest\AplicationTest\obj\x86\Debug\AplicationTest.pdb
